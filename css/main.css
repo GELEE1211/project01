@@ -149,6 +149,7 @@ font-size: 20px; cursor: pointer; border: 0; border-radius: 0 22px 22px 0;}
 
   #product{margin-top: 0;}
   #product .s-inner{width: calc(387px*2); height: 540px; margin: 0 auto;}
+  #product ul li a img{width: 307px;}
   #product ul li .txt-box{text-align: left; margin-left: 40px;}
 
   .banner-wrap{height: 300px; margin: 150px 0;}
