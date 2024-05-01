@@ -68,7 +68,7 @@ cursor: pointer; position: absolute; top: 700px; left: 50%; transform: translate
 #product ul li .txt-box{display: block; text-align: center;}
 
 .banner-wrap{position: relative; top: 150px; height: 400px;}
-.m-banner{width: 100%;}
+.m-banner{overflow: hidden;}
 .m-banner, .banner{position: absolute; top: 0; left: 50%; transform: translateX(-50%);}
 .banner{display: none;}
 
