@@ -62,7 +62,7 @@ cursor: pointer; position: absolute; top: 700px; left: 50%; transform: translate
 #product .s-inner{width: 100%; height: 100%; margin: 0 auto; border-left: 1px solid #E2E2E2; border-right: 1px solid #E2E2E2;}
 #product ul li{width: 367px; height: 100%; background-color: #fff; border-right: 1px solid #E2E2E2; margin: 0 auto;}
 #product ul li a {padding: 20px;}
-#product ul li a img{padding: 20px; display: block; margin: 0 auto;}
+#product ul li a img{padding: 20px; display: block; margin: 0 auto; width: 300px;}
 #product ul li a h4{font-size: 28px; margin-bottom: 20px;}
 #product ul li a p{color: #917C52;}
 #product ul li .txt-box{display: block; text-align: center;}
