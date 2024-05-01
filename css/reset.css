@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'JeonjuCraftMjB';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/JeonjuCraftMjB.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'JeonjuCraftGoR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/JeonjuCraftGoR.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{font-family: 'JeonjuCraftGoR', sans-serif; font-size: 14px; line-height: 1.35; color: #2A1B00;}
+h1,h2,h3,h4,h5,h6{font-family: 'JeonjuCraftMjB', serif;}
+a{color: #2A1B00; text-decoration: none;}
+img{border: 0; vertical-align: top;}
+select, input{vertical-align: top;}
+ul,ol{list-style: none;}
+
+.hidden{color: transparent; font-size: 0;}
